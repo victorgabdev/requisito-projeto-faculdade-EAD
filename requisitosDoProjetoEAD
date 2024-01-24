@@ -1,0 +1,27 @@
+- LEVANTAMENTO DE REQUISITOS FUNCIONAIS
+
+# Aluno
+Cadastrar Aluno
+Logar Aluno
+Deslogar Aluno
+Atualizar informações Aluno
+Autenticação Login Aluno
+Recuperação de Senha por serviço de E-mail
+Editar Perfil (e-mail, senha)
+Aluno adiciona curso a grade curricular
+Aluno exclui curso da grade curricular
+Aluno assistir aula
+Aluno Check Aula
+Aluno gera certificado
+
+# Aula 
+cadastrar aula
+Atualizar aula
+deletar aula
+
+# curso
+Cadastrar curso
+Atualizar curso (colocar aula)
+Deletar curso
+Listar todos os cursos
+
